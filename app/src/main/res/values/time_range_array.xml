@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // For spinner
+    <string-array name="time_range_array">
+        <item>@string/time_range_short</item>
+        <item>@string/time_range_medium</item>
+        <item>@string/time_range_long</item>
+    </string-array>
+</resources>
